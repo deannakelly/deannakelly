@@ -6,11 +6,9 @@
 
 🎓 University of Chicago Alumna: B.S. (2020-2024) M.S. (2024-2025)
 
-💻 Available for work! Looking for Associate Data Science roles
-
 📖 Currently Reading: _Practical Statistics for Data Scientists_ by Peter Bruce
 
-I am a recent graduate and aspiring data scientist with a particular interest in analyzing health data.
+💻 Available for work! Looking for Associate Data Science roles
 
 ## 🛠️ Skills
 
