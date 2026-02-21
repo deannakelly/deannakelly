@@ -1,3 +1,5 @@
+![Header](./assets/header-banner.png)
+
 ## 🧑🏾‍💻 About Me
 
 📍 Atlanta, GA
