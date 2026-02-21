@@ -21,18 +21,13 @@
 
 ## 📊 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/deannakelly/glycemic-control">Predicting Glycemic Control</a></h3> 
-      <p>Predicting glycemic control in diabetes patients on GLP-1 medication with supervised classification models.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="#">Assessing Doctor Quality</a></h3> 
-      <p>Identifing the highest performing doctor/clinician by specialty, state, city/town, and ZIP code based on their MIPs score.</p>
-    </td>
-  </tr>
-</table>
+### [Predicting Glycemic Control](https://github.com/deannakelly/glycemic-control)
+
+Predicting glycemic control in diabetes patients on GLP-1 medication with supervised classification models.
+
+### Assessing Doctor Quality
+
+Identifing the highest performing doctor/clinician by specialty, state, city/town, and ZIP code based on their MIPs score.
 
 ## ✉️ Connect
 
