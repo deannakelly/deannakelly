@@ -2,13 +2,13 @@
 
 ## 🧑🏾‍💻 About Me
 
-📍 Atlanta, GA
+📍 (Close to) Atlanta, GA
 
 🎓 University of Chicago Alumna: B.S. (2020-2024) M.S. (2024-2025)
 
-📖 Currently Reading: _Practical Statistics for Data Scientists_ by Peter Bruce
+📖 Currently Reading: Practical Statistics for Data Scientists by Peter Bruce
 
-💻 Available for work! Looking for Associate Data Science roles
+💻 Available for Work! Looking for open roles for **Associate Data Scientist**
 
 ## 🛠️ Skills
 
@@ -25,9 +25,9 @@
 
 Predicting glycemic control in diabetes patients on GLP-1 medication with supervised classification models.
 
-### Assessing Doctor Quality
+### [Identifying & Mapping High-Quality Doctors/Clinicians](https://github.com/deannakelly/doctor-quality-map)
 
-Identifing the highest performing doctor/clinician by specialty, state, city/town, and ZIP code based on their MIPs score.
+Interactive dashboard that allows users to filter doctors/clinicians by state, city, ZIP code, and specialty to identify the highest quality providers in their area. This project is supposed to mimic healthcare recommendation system platforms by ranking providers according to Merit Incentive Payment System (MIPS) scores using publicly available data from the Center for Medicare & Medicaid Services (CMS).
 
 ## ✉️ Connect
 
