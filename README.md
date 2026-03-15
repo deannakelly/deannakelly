@@ -17,7 +17,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## 📊 Featured Projects
 
@@ -25,9 +24,9 @@
 
 Predicting glycemic control in diabetes patients on GLP-1 medication with supervised classification models.
 
-### [Identifying & Mapping High-Quality Doctors/Clinicians](https://github.com/deannakelly/doctor-quality-map)
+### [Ranking Doctor Quality with MIPS Scores](https://github.com/deannakelly/doctor-quality)
 
-Interactive dashboard that allows users to filter doctors/clinicians by state, city, ZIP code, and specialty to identify the highest quality providers in their area. This project is supposed to mimic healthcare recommendation system platforms by ranking providers according to Merit Incentive Payment System (MIPS) scores using publicly available data from the Center for Medicare & Medicaid Services (CMS).
+Ranking doctor and clinician quality using Merit Incentive Payment System (MIPS) scores from publicly available Center for Medicare & Medicaid Services (CMS) data.
 
 ## ✉️ Connect
 
