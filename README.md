@@ -8,7 +8,7 @@
 
 📖 Currently Reading: Practical Statistics for Data Scientists by Peter Bruce
 
-💻 Available for Work! Looking for open roles for **Associate Data Scientist**
+💻 Searching for early-career **Data Science** roles!
 
 ## 🛠️ Skills
 
